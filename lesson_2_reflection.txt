@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+git creates a repository to gather all my files that need to be worked on
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+staging area is where we choose what go's from working directory to the repository, the value to choose wisely
