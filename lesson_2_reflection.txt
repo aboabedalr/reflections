@@ -7,3 +7,20 @@ staging area is where we choose what go's from working directory to the reposito
 
 How can you use the staging area to make sure you have one commit per logical change?
 by checking what changes are made and are they worth commting 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+if i want to make some changes that are not accounted for
+
+How do the diagrams help you visualize the branch structure? 
+it shows me when to create new branches and commits so they will not be lost
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+a new better version of the game, because it is technically a new commit
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros:
+save a lot of time
+
+cons:
+hard to fix conflicts
