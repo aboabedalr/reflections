@@ -3,3 +3,7 @@ git creates a repository to gather all my files that need to be worked on
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 staging area is where we choose what go's from working directory to the repository, the value to choose wisely
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+by checking what changes are made and are they worth commting 
